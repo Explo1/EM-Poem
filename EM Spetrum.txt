@@ -9,3 +9,4 @@ VIOLET
 Those are the Electromagnetic Spetrum of Light With diffrent wave lenght
 RED=RADIO WAVE
 ORANGE=MICRO WAVE
+White Black
